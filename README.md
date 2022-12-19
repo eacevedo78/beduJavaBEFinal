@@ -78,3 +78,5 @@ erDiagram
 |  |PUT  | /users/{userId}/applications/{applicationId}/credentials |
 |  |DELETE  | /users/{userId}/credentials/{id} |
 
+### Video de explicación
+https://drive.google.com/file/d/1GMFDlq7jO2ngF7SGaIHXJFvnu9BlkfE7/view?usp=sharing
